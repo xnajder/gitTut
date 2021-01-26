@@ -12,6 +12,7 @@
 -> then click i // insert
 -> esc // esc instert mode
 -> :wq
+- git commit -m 'comment'
 - git rm --cached <file>  // unstage
 - git status // check status of working tree
 - git commit 
